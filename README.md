@@ -1,4 +1,4 @@
-https://img.shields.io/github/license/docker/cli?color=blue&logo=apache&logoColor=blue&style=plastic
+[![GitHub release](https://img.shields.io/github/license/docker/cli?color=blue&logo=apache&logoColor=blue&style=plastic)](https://github.com/docker/compose/releases/latest)
 
 # segsat
 segsat app
